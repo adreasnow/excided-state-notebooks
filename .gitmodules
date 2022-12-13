@@ -1,6 +1,3 @@
-[submodule "es-and-monarch-handler"]
-	path = es-and-monarch-handler
-	url = git@github.com:adreasnow/es-and-monarch-handler.git
 [submodule "resources"]
 	path = resources
 	url = git@github.com:adreasnow/es-and-monarch-handler.git
